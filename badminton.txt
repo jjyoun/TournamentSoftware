@@ -1,0 +1,335 @@
+Last,First,Sex,Phone,E-mail,Club,Group Entry,Singles,Doubles,Dpartner,Mixed,Mpartner,Number of Events,T-Shirt,,Fee,Paid
+Alvarez,Andre,M,(510) 517-5767,ch0kee@yahoo.com,,0,DMS,,,,,1,M,TRUE,30,
+Ang,Ryan,M,(510) 517-1388,ang.daien@gmail.com,NBC,0,AMS,AMD BMD,James Youn,,,3,,FALSE,50,
+Au,Eric,M,(408) 786-4934,ericdotau@gmail.com,Indy,0,CMS,CMD DMD,Jason Guanlao,CMX,Kellyrose Sudaria,4,,FALSE,65,
+Au,Matthew ,M,(510) 918-1018,mattixo@sbcglobal.net,EBA ,0,,CMD(25) DMD(25),Anthony Ha,,,2,L,TRUE,45,
+Basa,Christian ,M,(510) 366-3123,chianbasa@yahoo.com,Hogwarts,1,,CMD DMD,Solomon Wong,DMX,Thu Le,3,,FALSE,42,
+Blanchet,Serge,M,(559) 960-1613,sergetb@yahoo.com,,0,AMS,,,AMX,Sarah Chan,2,,FALSE,35,
+Boyd,Evan,W,(626) 224-4919,stellar16@ymail.com,,0,DMS,,,DMX(22),Tori Duke,2,,FALSE,35,
+Bui,Anh,M,(408) 849-5728,abbnx3@gmail.com,,0,,,,,,,,FALSE,5,
+Bui,Joseph,M,(510) 881-3945,j_bui92@yahoo.com,Hogwarts,1,,CMD,Jacky Lui,CMX,Trang Tran,2,,FALSE,30,
+Byrd,Melisa,W,(707) 704-1636,smeli5a.melisa@gmail.com,EBA,1,,BWD CWD,Cynthia Leung,,,2,,FALSE,30,
+Cablay,Roxanne,W,(510) 402-8575,r_cablay@yahoo.com,NBC,0,,CWD,Thuy-Nhi Truong,,,1,,FALSE,20,
+Cao,Nathan,M,(650) 200-8421,nathancao85@gmail.com,eba,1,,BMD CMD,Victor Yu,BMX CMX,Tiffany Jianto,4,,FALSE,54,
+Carmen,MArielle,W,(650) 267-9515,mariellecarmen@yahoo.com,BBC,0,,,,CMX DMX,Bowie Yu,2,S,TRUE,45,
+Carvajal,Gretchen,W,(510) 857-7105,helloimgretchen@gmail.com,NBC,0,,CWD DWD,Demi Dao ,,,2,L,TRUE,45,
+Chan,Daniel,M,(415) 439-9929,exowneon@hotmail.com,iSmash,1,,CMD(59) DMD(48),Di Lan,,,2,,FALSE,30,
+Chan,Jeffery,M,(415) 439-9929,exowneon@hotmail.com,iSmash,1,DMS,CMD(55) DMD(43),Sparsh Methar,,,3,,FALSE,42
+Chan,Larry,M,(408) 887-8933,lawrencechan123@yahoo.com,Royal B,1,,CMD DMD,Emil Kurian,,,2,M,TRUE,40
+Chang,Alex,M,(510) 396-9890,ac55411@yahoo.com,NBC,0,,DMD(28),Jonathan Luong,,,1,,FALSE,20
+Chang,David,M,(408) 644-1802,dcmouse23@yahoo.com,UC Davis,0,,CMD(7) DMD(8),Victor Chen,,,2,,FALSE,35
+Chang,Kevin,M,(408) 416-6668,swifttarrow@gmail.com,Cal Badminton,0,,AMD BMD,Arnold Yeung,,,2,,FALSE,35
+Chang,Lucy,W,(408) 234-3898,qlchang57@gmail.com,Hogwarts,1,,CWD DWD,Vivian Dien,,,2,,FALSE,30
+Chang,Michael,M,(408) 568-9455,m.a.changalang@gmail.com,Saratoga High School,0,,DMD,Darren Sun,,,1,,FALSE,20
+Chao,Derek,M,(408) 621-5100,blackbelch@gmail.com,BBC,0,BMS,BMD,Francis Yao,,,2,,FALSE,35
+Chau,Albert,M,(650) 387-3465,snoopsnoop7878@yahoo.com,Royal B,1,,CMD(5) DMD(6),Peter Wu,,,2,M,TRUE,40
+Chau,Bryant,M,(415) 987-8035,bchau904@gmail.com,Cal Badminton,0,,AMD BMD,Simon Wong,,,2,M,TRUE,45
+Cheah,Michelle,W,(408) 823-1623,cheahpet123@yahoo.com,Milpitas High School,0,,DWD,Eunice Magat ,DMX,Anthony Quach,2,S,TRUE,45
+Cheah,Vincent,M,(650) 922-1680,vincentcheah@berkeley.edu,UC Berkeley,0,BMS CMS,,,,,2,L,TRUE,45
+Chen,Derek,M,(510) 368-1045,dchen81890@gmail.com,Hogwarts,1,AMS,,,,,1,,FALSE,18
+Chen,Jeechee,M,(240) 449-9685,jeechee.chen@gmail.com,UC Berkeley,0,,BMD CMD(39),Kalins Hou,,,2,S,TRUE,45
+Chen,Joshua,M,(408) 960-5877,jtcrule@yahoo.com,Royal B,1,CMS DMS,CMD(16) DMD(15),Brendan Dinh,,,4,,FALSE,54
+Chen,Peter ,M,(510) 585-8592,that1kev@live.com,NBC,0,,CMD DMD,Noel Lejat,,,2,,FALSE,35
+Chen,Tony,M,(240) 899-8383,tony.chen@berkeley.edu,UC Berkeley,0,,CMD(56) DMD(44),Vincent Sheu,,,2,,FALSE,35
+Chen,Vicky,W,(408) 387-9074,vicky.chen@berkeley.edu,UC Berkeley,0,,DWD,Michelle Vu,,,1,,FALSE,20
+Chen,Victor,M,(408) 891-6159,Candy_freak999@yahoo.com,UC DAVIS,0,,CMD(63) DMD(53),David Chang,,,2,,FALSE,35
+CHEN,YENHAO,M,(510) 684-7774,YENHAOCHEN@BERKELEY.EDU,UC Berkeley,0,,,,DMX,Audrey Hong,1,S,TRUE,30
+Cheng,David,M,(510) 936-4182,davidcheng.id@gmail.com,Mission San Jose,0,DMS,,,,,1,L,TRUE,30
+Cheung,Benton ,M,(510) 283-3311,cheung.benton@gmail.com,Hercules,0,,DMD,Cory Chew,,,1,,FALSE,20
+Cheung,Curtis,M,(510) 913-1058,curtis5499@gmail.com,EBA,1,,CMD(35) DMD(31),Nicholas Cheung,,,2,M,TRUE,40
+Cheung,Joshua,M,(510) 913-0952,jtcheung3@gmail.com,EBA,1,,DMD(54),Stephen yang ,,,1,,FALSE,18
+Cheung,Nicholas,M,(510) 913-0931,nichc25@yahoo.com,EBA,1,,CMD(41) DMD(33),Curtis Cheung,,,2,L,TRUE,40
+Cheung,Stephanie,W,(510) 378-6115,stephclcheung@gmail.com,UCD,1,,DMD CWD,Ingrid Wong,BMX CMX,Dexter Vu,4,,FALSE,54
+Chew,Cory,M,(510) 393-1383,chew.cory@yahoo.com,Hercules ,0,,DMD,Benton Cheung,,,1,L,TRUE,30
+Chew,Jeffrey,M,(408) 807-3586,jeffreycheew888@yahoo.com,STHS,0,,DMD,Anthony Tran,,,1,M,TRUE,30
+Chiu,Stephen,M,(510) 894-5653,Cfutt888@yahoo.com,SBBG,1,,BMD CMD,Willie Soubiea,BMX,Danae Long,3,L,TRUE,52
+Chock,David,M,(408) 402-2228,david_chock@berkeley.edu,Berkeley,0,,,,BMX CMX,Betty Huynh,2,M,TRUE,45
+Chock,David,M,(408) 402-2228,david.chock@gmail.com,UC Berkeley,0,,BMD CMD,Kevin Yao,,,2,,FALSE,35
+Chou,Eddie,M,(650) 208-2285,eddieechou@gmail.com,Hogwarts,1,,BMD CMD,Ky Tran,,,2,,FALSE,30
+Chu,Emily,W,(408) 892-4865,emichu@ucdavis.edu,UCD,1,,,,BMX CMX,Vu Lam,2,,FALSE,30
+Chu,Terry,M,(408) 893-7101,terrychu93@gmail.com,Royal B,1,,CMD(13) DMD(12),Aaron Lau,CMX DMX,Menglin Ruan,4,,FALSE,54
+Chu,Tiffany,W,(408) 832-2139,pichu@ucdavis.edu,UCD,1,,,,BMX CMX,Gary Wu,2,,FALSE,30
+Chung,Connie,W,(510) 673-2891,cons2naitomea@gmail.com,Cal Badminton,0,,CWD DWD,Audrey Guo,DMX,Ross,3,S,TRUE,60
+Chung,Kevin,M,(408) 828-2264,kevin@baybadminton.com,BBC,0,,CMD(51) DMD(36),John Quach,CMX DMX(4),Laura Mock,4,,FALSE,65
+Cortez,Xavier,M,(510) 793-9929,vedy992@yahoo.com,NBC,0,,CMD DMD,ezekiel le,,,2,,FALSE,35
+Cusick,Ashton,M,(707) 419-1067,ashton210z@gmail.com,EBA,1,,,,CMX DMX(6),Fiona Lai,2,,FALSE,30
+Dang,Max,M,(408) 334-4671,maxdang2@yahoo.com,,0,DMS,,,,,1,,FALSE,20
+Dang,Rose,W,(408) 515-0678,etupplur@gmail.com,Piedmont Hills ,0,,DWD,Laura,,,1,,FALSE,20
+Dano,Brent,M,(650) 630-5873,brentdano@gmail.com,UC Berkeley,0,AMS BMS,,,,,2,M,TRUE,45
+Dao,Demi,W,(510) 557-5577,daodemi@gmail.com,nbc,0,,CWD DWD,Gretchen Carvajal,CMX DMX,Michael Truong,4,,FALSE,65
+Dao,Joshua,M,(415) 317-7509,lilwizard1188@aol.com,,0,,BMD CMD(11),Andy Lam,,,2,,FALSE,35
+De Leon,Jose,M,(408) 316-4314,rdjose@live.com,N/A,0,DMS,CMD DMD,Donald Tat,DMX,Cody Matthes,4,L,TRUE,75
+Dea,Bettina,W,(415) 728-7219,bettinadea@yahoo.com,UCSD badminton,0,,CWD DWD,Leta He,,,2,,FALSE,35
+Dela Cruz,Vernie,M,(408) 506-4496,lookrumad@yahoo.com,,0,DMS,,,,,1,,FALSE,20
+DengIt,Susan ,W,(510) 384-2320,susan1989@gmail.com,Cal Badminton,0,,,,DMX,Michael Kung,1,S,TRUE,30
+Dianela,Winzviktoria,W,(650) 455-7174,qwenydianela@yahoo.com,,0,,DWD,Marshal Vergara,CMX,Marielle Carmen,2,,FALSE,35
+Diaz,Gumaro,M,(408) 799-6630,mugdays@gmail.com,DNG ,0,AMS,AMD,Terrence Pang,AMX BMX,Jenny Lu,4,,FALSE,65
+Dien,Vivian,W,(510) 789-8376,vdien93@gmail.com,Hogwarts,1,,CWD DWD,Lucy Chang,CMX,Ky Tran,3,S,TRUE,52
+Ding,Ze Tian,M,(650) 200-9373,zetian84@gmail.com,,0,,DMD(16),Teck Hua Lee,,,1,,FALSE,20
+Dinh,Anthony ,M,(408) 828-9754,fatboyz0r31@yahoo.com,,0,,DMD,Kevin Yamaguchi,,,1,M,TRUE,30
+Dinh,Brendan,M,(408) 829-3245,brendan.dinh@gmail.com,Royal B,1,DMS,CMD(12) DMD(11),Joshua Chen,DMX,Linda Zhang,4,,FALSE,54
+Duke,Kristen,W,(626) 224-4920,kristen_duke2003@yahoo.com,,0,,,,CMX(9),FRED HERNANDEZ,1,,FALSE,20
+Duke,Tori,W,(626) 224-4919,stellar16@ymail.com,,0,,,,DMX(21),Evan Boyd,1,,FALSE,20
+Elliot,Seth,M,(650) 326-5257,selliot@stanfordalumni.org,Stanford,0,,,,AMX BMX,Nancy Wang,2,,FALSE,35
+Erandio,Jesse,M,(510) 292-8617,jerandio@yahoo.com,Hercules,0,,,,DMX,Kimberly Ny,1,,FALSE,20
+Escobal,Vedy,M,(510) 364-5427,vedy92@yahoo.com,NBC,0,,BMD CMD,gavin paule,,,2,,FALSE,35
+Fernandes,Cedric,M,(510) 870-8624,cedricfernandes@hotmail.com,,0,,CMD,Praveen Sharma,,,1,M,TRUE,30
+Flores,Dericka,W,(707) 567-4399,derickaflores@gmail.com,,0,DWS,,,CMX(4) DMX(16),Tien Vo,3,M,TRUE,60
+Fong,John,M,(559) 250-8630,Jgfong@ucdavis.edu,UCD,1,,,,DMX,Jennifer nguyen,1,,FALSE,18
+Freash,Eddie,M,(408) 646-0186,eddie.abonce@gmail.com,Royal B,1,,BMD CMD(29),Trevor Taylor,,,2,,FALSE,30
+Gamata,Guiller,M,(510) 432-6704,miniblazer123@yahoo.com,,0,,DMD(49),Kendrick Kho,,,1,L,TRUE,30
+Gandrakota,Rohit,M,(408) 398-6123,grohiit@gmail.com,Stanford,0,BMS,,,BMX CMX(2),Milinda Lakkam ,3,,FALSE,50
+Go,Thomas,M,(510) 982-9014,thomaslgo@yahoo.com,calbadminton,0,,CMD(57) DMD(45),Yang Zhao,,,2,,FALSE,35
+Gu,Catherine,W,(408) 646-2610,xxkittiexx@gmail.com,,0,,,,CMX(11) DMX(25),Stefan Tian,2,,FALSE,35
+Guanlao,Jason,M,(408) 613-3432,jasutek@gmail.com,DnG,0,,CMD DMD,Eric Au,,,2,,FALSE,35
+Guillen,Miguel,M,(650) 931-4262,migoguillen@yahoo.com,Stanford,0,,BMD,Patrick Shih,BMX CMX(5),Tiffany Jou,3,S,TRUE,60
+Guo,Audrey,W,(480) 242-9969,audrey.guo@berkeley.edu,Cal Badminton,0,DWS,CWD DWD,Connie Chung,DMX,Yi-an Tseng,4,,FALSE,65
+Gupta,Shrayus ,M,(510) 512-8445,shrayusgupta@yahoo.com,NBC,0,DMS,CMD DMD,Frank Nguyen,DMX,Sihua Xu,4,M,TRUE,75
+Ha,Anthony,M,(510) 717-6045,antonyh413@yahoo.com,EBA,1,DMS,CMD DMD,Matthew Au,,,3,M,TRUE,52
+Hall,Phil,M,(408) 892-8774,phall92@gmail.com,West Valley,0,,CMD(27) DMD(28),Kelly Ros,,,2,XL,TRUE,45
+He,Leta,W,(415) 572-5175,leta.he@yahoo.com,UCSD Badminton,0,,CWD DWD,Bettina Dea,,,2,,FALSE,35
+Hernandez,Fred,M,(787) 502-9554,fredpepe@gmail.com,,0,BMS,,,CMX(8),KRISTEN DUKE,2,,FALSE,35
+Ho,Amanda,W,(510) 754-7941,Amandaho1389@yahoo.com,UCD,1,,AWD BWD,Fanny Yu,BMX,Nathan Lo,3,,FALSE,42
+Ho,Cecilia,W,(510) 552-5502,ceciliaho16@yahoo.com,,0,,,,DMX(3),Matthew Hsieh,1,S,TRUE,30
+Ho,Ray,M,(000) 000-0000,badminton@ocf.berkeley.edu,eba,1,,AMD BMD,Micky Iswaranta,,,2,,FALSE,30
+Hoang,Michelle,W,(510) 325-5422,michellehoaag@gmail.com,NBC,0,,CWD,Alice Tung,,,1,,FALSE,20
+Hoang,Tuan,M,(510) 316-1563,Tuanhoang36@yahoo.com,Hogwarts,1,CMS DMS,,,DMX,Tuongvi,3,,FALSE,42
+Hong,Audrey,W,(206) 446-4133,audrey793@berkeley.edu,UCB,0,,,,DMX(7),Yenhao Chen,1,S,TRUE,30
+Hou,Kalins,M,(415) 519-4576,kalins1984@hotmail.com,UC Berkeley,0,,BMD CMD(61),JeeChee Chen,,,2,L,TRUE,45
+Hsieh,Matthew,M,(510) 557-3233,matthewhsieh118@yahoo.com,washington,0,CMS DMS,,,DMX(2),cecilia ho,3,L,TRUE,60
+Hsieh,Wesley,M,(408) 221-0345,email_wesley@yahoo.com,UCD,1,,,,AMX BMX,Fanny Yu,2,,FALSE,30
+Hsu,Karine ,W,(650) 714-6268,khsurox888@yahoo.com,NBC,0,,CMD AWD,Francesca Setiadi,AMX BMX,James Youn,4,S,TRUE,75
+Hsu,Timothy,M,(408) 910-8634,stephenwarren001@yahoo.com,CBA & Milpitas High ,0,DMS,,,,,1,M,TRUE,30
+Huynh,Betty,W,(714) 872-0142,bhuynh89@hotmail.com,,0,,,,BMX CMX,David Chock,2,,FALSE,35
+Huynh,Hanh,W,(510) 828-6534,hthuynh85@yahoo.com,Hogwarts,1,,,,BMX,Jason Mei,1,,FALSE,18
+Huynh,John,M,(408) 362-9190,sixteenfeathers@gmail.com,STHS,0,,DMD,Jose De Leon,,,1,XL,TRUE,30
+Huynh,Nguyen,M,(510) 274-1791,nnhuynh7@gmail.com,UC Davis,0,,AMD BMD,Huy Tran,,,2,,FALSE,35
+Huynh,Quan,M,(408) 499-9919,quan.huynh@att.net,Hogwarts,1,,AMD,Dan Nguyen,,,1,,FALSE,18
+Huynh,Steven,M,(408) 206-5631,xstevenhuynhx@yahoo.com,,0,,DMD(23),Tan Kha,,,1,,FALSE,20
+Iswaranta,Micky,M,(415) 370-7014,miswaranta@yahoo.com,eba,1,,AMD BMD,Ray Ho,,,2,,FALSE,30
+Ja,Christina,W,(408) 466-6146,cee_ja18@yahoo.com,Hogwarts,1,,DWD,Katherine Ja,CMX DMX,Phong Nguyen,3,,FALSE,42
+Ja,Katherine,W,(408) 531-1120,katherine.ja@gmail.com,Hogwarts,1,,DWD,Christina Ja,CMX DMX,Huey Trinh,3,,FALSE,42
+Jiang,Michelle,W,(408) 828-6599,sapphiremyj@gmail.com,,0,,DWD,Sihua Xu,,,1,S,TRUE,30
+Jianto,Tiffany,W,(408) 306-2819,t.funnee@gmail.com,cal badminton,0,BWS,,,BMX CMX,nathan cao,3,,FALSE,50
+Jou,Tiffany,W,(619) 855-5267,tiffjou@gmail.com,Stanford Badminton ,0,,,,BMX CMX,Miguel Guillen,2,S,TRUE,45
+Kapoor,Amit,M,(650) 807-2700,amitk@gm.com,NA,0,,CMD(17),Vinay Hoshur,,,1,,FALSE,20
+Karve,Sujay,M,(408) 316-0839,sujay.karve@gmail.com,ZBTC,0,AMS BMS,,,,,2,,FALSE,35
+Kha,Tan ,M,(408) 623-1055,fizindaica@yahoo.com,,0,,DMD(22),Steven Huynh,CMX DMX,Chi Phan,3,,FALSE,50
+Kho,Kendrick,M,(510) 432-9704,kkho207@gmail.com,Mt. Eden,0,,DMD(37),Guiller Gamata,,,1,XL,TRUE,30
+KinKong,Kok,M,(650) 276-6911,duyhnguyen5@yahoo.com,Bay Badminton Center,0,,DMD(20),Yip YangWang,,,1,,FALSE,20
+Kong,Ivan,M,(650) 278-0862,ivan_kong@berkeley.edu,Berkeley,0,,CMD(28),Charlie Voung,CMX,Ingrid Wong,2,M,TRUE,45
+Ku,Wilson,M,(650) 515-0016,wilsonkku@Hotmail.com,UCD,1,,CMD BMD,Bin Teh,,,2,,FALSE,30
+Kubo Jr.,Kenyon,M,(408) 373-1140,soprocs@aol.com,SJSU,0,,AMD BMD,Evan Blomquist,,,2,M,TRUE,45
+Kung,Michael,M,(562) 274-5018,kungm@berkeley.edu,UC Berkeley,0,DMS,,,DMX,Susan Deng,2,,FALSE,35
+Kurian,Emil,M,(408) 373-4921,emilkurian@gmail.com,Royal B,1,,CMD DMD,Larry Chan,,,2,,FALSE,30
+Kwong,Edric,M,(415) 828-9807,Nobig_e@yahoo.com,,0,,BMD CMD(36),Tim yue,,,2,M,TRUE,45
+Lai,Fiona,W,(415) 846-9946,fionalai18@yahoo.com,EBA,1,DWS,,,CMX DMX(5),Ashton Cusick,3,,FALSE,42
+Lakkam ,Milinda ,W,(248) 631-6284,milindal@stanford.edu,Stanford,0,,CWD,Nancy Wang,BMX CMX(1),Rohit Gandrakota,3,,FALSE,50
+Lam,Andy,M,(415) 671-9278,beagleboi10@aol.com,,0,,BMD CMD(10),Joshua Dao,,,2,,FALSE,35
+Lam,Curtis,M,(510) 512-6595,curtis_lam15@yahoo.com,none,0,,CMD DMD,Stephen Ling,,,2,L,TRUE,45
+Lam,Joseph,M,(510) 449-7344,josephlam78@gmail.com,SBBG,1,,CMD DMD,Sunny Wan,CMX DMX,Jenny Tsang,4,M,TRUE,64
+Lam,Vu,M,(408) 694-8509,vula89@gmail.com,UCD,1,,BMD CMD(2),Quyen Nguyen,BMX CMX,Emily Chu ,4,,FALSE,54
+Lan,Di,M,(415) 439-9929,exowneon@hotmail.com,iSmash,1,,CMD(53) DMD(41),Daniel Chan,DMX(8),Jennifer To,3,,FALSE,42
+Lau,Aaron,M,(408) 981-2818,Farran17@gmail.com,Royal B,1,,CMD(13) DMD(12),Terry Chu ,,,2,,FALSE,30
+Lau,John ,M,(408) 310-3428,john2lau@gmail.com,Royal B,1,,DMD(3),Brian Lee,,,1,,FALSE,18
+Lau,Julia,W,(650) 868-2151,juleslau@yahoo.com,SBBG,1,,,,CMX DMX,Sunny Wan,2,S,TRUE,40
+Le,Brandon,M,(415) 793-5728,brandonplus54@gmail.com,Bay Badminton Center,0,,CMD(60) DMD(50),Derek Toy,,,2,L,TRUE,45
+Le,Ezekiel,M,(510) 688-8765,doryusan6314@yahoo.com,NBC,0,,CMD DMD,Xavier Cortez,,,2,,FALSE,35
+Le,Melissa,W,(408) 799-7982,mplmel@yahoo.com,,0,,DWD,Allyson Vu,,,1,,FALSE,20
+Le,Thu,W,(510) 676-0556,thule964@gmail.com,Hogwarts,1,,DWD,Trang Tran,DMX,Christian Basa,2,,FALSE,30
+Lee,Angeline,W,(408) 510-0468,anglee@berkeley.edu,UC Berkeley,0,,,,DMX,Michael Mai,1,,FALSE,20
+Lee,Brian,M,(408) 310-3428,brianlee96@gmail.com,Royal B,1,,DMD(2),John Lau,,,1,,FALSE,18
+Lee,John ,M,(510) 881-3936,johnlee_usa@yahoo.com,CVHS,0,,BMD CMD(42),Michael Wang,,,2,,FALSE,35
+Lee,Teck Hua,M,(412) 251-9851,gteckhua@gmail.com,ORCL,0,,DMD(16),Ze Tian Ding,,,1,,FALSE,20
+Lejat,Noel,M,(510) 331-9226,noeljlejat@yahoo.com,NBC,0,,CMD DMD,Peter Chen,,,2,,FALSE,35
+Leung,Cynthia,W,(510) 427-6906,cyncyn26@berkeley.edu,EBA,1,,BWD CWD,Melisa Byrd,,,2,,FALSE,30
+Li,Kevin,M,(925) 577-8867,lisajiang98@yahoo.com,Dougherty Valley Hig,0,DMS,,,,,1,M,TRUE,30
+Li,Monica,W,(415) 623-4022,monl615@yahoo.com.hk,,0,,,,CMX DMX,Jimmy Wu,2,,FALSE,35
+Liang,Nathan,M,(415) 307-1267,znate101@gmail.com,UCB,0,CMS DMS,,,,,2,M,TRUE,45
+Liao,Chen-Hao,M,(408) 802-8138,lany3366@hotmail.com,Milpitas High School,0,,DMD,Kevin Tu,DMX,Eunice Magat,2,M,TRUE,45
+Lim,Dominick,M,(510) 456-5936,dominick@berkeley.edu,Cal Badminton,0,AMS,,,BMX,Cecilia Wong,2,M,TRUE,45
+Lin,Na Bin,M,(415) 439-9929,exowneon@hotmail.com,iSmash,1,CMS DMS,,,,,2,,FALSE,30
+Ling,Stephen,M,(510) 648-5308,stephenling6890@gmail.com,ZBTC,0,,CMD DMD,Curtis Lam,,,2,L,TRUE,45
+Lo,Nathan,M,(510) 375-6988,ncylo@ucdavis.edu,UCD,1,,BMD CMD,Gary Wu,BMX,Amanda Ho,3,,FALSE,42
+Lo,Nicole,W,(510) 432-0200,Nicole_9245@yahoo.com,UCD,1,,,,CMX DMX,Andrew Santos,2,S,TRUE,40
+Long,Danae,W,(408) 416-1704,baddyluva@gmail.com,hogwarts,1,BWS,,,BMX,Stephen Chiu,2,,FALSE,30
+Long ,Patrick ,M,(510) 857-4401,patrick.long99@gmail.com,,0,BMS,,,,,1,,FALSE,20
+Low,Julian,M,(408) 326-9086,jelow@ucdavis.edu,uc davis,0,CMS DMS,CMD(3) DMD(4),Richard Vuong,,,4,,FALSE,65
+Lu,Jenny,W,(510) 585-8919,jenni_fishi@yahoo.com,BBC,0,,,,AMX BMX,Gumaro DÕaz Duràn,2,,FALSE,35
+Lui,Jacky,M,(510) 676-1476,jaclui@ucdavis.edu,hogwarts,1,,CMD,Joseph Bui,,,1,,FALSE,18
+Luu,Justin,M,(510) 502-9926,justinluu8235@yahoo.com,eba,1,CMS DMS,,,,,2,L,TRUE,40
+Ly,Alex,M,(408) 466-6604,ally@ucdavis.edu,UCD,1,CMS DMS,,,,,2,,FALSE,30
+Ly,David,M,(408) 613-9037,dlchinaboy@gmail.com,,0,,DMD(9),raymond tiet,,,1,,FALSE,20
+Ly,Hellen,W,(408) 728-0256,hnly@ucdavis.edu,uc davis,0,,,,DMX,Joe Wong,1,,FALSE,20
+Ma,Jack,M,(408) 838-3365,jackma246@gmail.com,,0,BMS,BMD CMD,Eric You,,,3,,FALSE,50
+Ma,Jesse,M,(707) 888-5711,j.masonoma17@gmail.com,Santa Rosa,0,AMS BMS,,,,,2,,FALSE,35
+Magat,Eunice,W,(408) 799-3742,emantoinette@gmail.com,Milpitas High School,0,,DWD,Michelle Cheah,DMX,Chen-Hao Liao,2,S,TRUE,45
+Mai,Michael,M,(408) 206-7379,michael.h.mai@gmail.com,,0,,,,DMX,Angeline Lee,1,L,TRUE,30
+Marquez,Janiel,M,(626) 321-2045,jtmarquez04@yahoo.com,,0,DMS,,,DMX(19),Jesi Marquez,2,,FALSE,35
+Marquez,Jesi,W,(626) 321-2045,jtmarquez04@yahoo.com,,0,,,,DMX(20),Janiel Marquez,1,,FALSE,20
+Matthes,Cody,W,(408) 545-8472,codymatthes@hotmail.com,De Anza,0,,,,DMX(1),Jose DeLeon,1,,FALSE,20
+Mei,Jason,M,(650) 796-7465,jmei12@gmail.com,Hogwarts,1,,,,BMX,Hanh Huynh,1,,FALSE,18
+Mendoza,John,M,(408) 616-0099,niho_nico@yahoo.com,,0,DMS,,,,,1,L,TRUE,30
+Methar,Sparsh,M,(415) 439-9929,exowneon@hotmail.com,iSmash,1,DMS,CMD(54) DMD(42),Jeffery Chan,,,3,,FALSE,42
+Mock,Laura,W,(408) 726-2579,chapstickbebe@yahoo.com,BBC,0,,,,DMX(23),Kevin Chung,1,S,TRUE,30
+Modelo,AJ,M,(530) 345-6350,ajmdl@yahoo.com,Butte College,0,,DMD,John Mark Rivera,,,1,S,TRUE,30
+Moriyama,Brian,M,(408) 694-7882,brianmoriyama@gmail.com,UCSD,0,,CMD DMD,Chris Yonekura,,,2,M,TRUE,45
+Nair,Ajay,M,(404) 435-6279,ajaynair85@gmail.com,Oracle,0,,CMD,Solomon Nelson,,,1,M,TRUE,30
+Nelson,Solomon,M,(404) 404-6279,ajaynair85@gmail.com,Oracle,0,,CMD,Ajay Nair,,,1,,FALSE,20
+Ngo,Andy,M,(408) 705-6885,ng0xandy@gmail.com,,0,,CMD(22) DMD(21),Jonathan Tran,,,2,,FALSE,35
+Ngo,Andy,M,(408) 705-6885,ng0_andy@yahoo.com,Not Making Paper,0,CMS,CMD(38) DMD(32),Jonathan Tran,,,3,,FALSE,50
+Nguyen,Cyndy,W,(209) 298-2869,huyenthoai209@gmail.com,Sac State,0,,DWD,Cynthia Nguyen,DMX(13),Kevin Ngo,2,,FALSE,35
+Nguyen,Cynthia,W,(209) 373-5727,smartsrule@yahoo.com,Sac State,0,,DWD,Cyndy Nguyen,DMX(14),Mike Phan,2,,FALSE,35
+Nguyen,Dan,M,(408) 799-2222,trunkz69@gmail.com,hogwarts,1,BMS,AMD,Quan Huynh,,,2,,FALSE,30
+Nguyen,Du,M,(650) 691-3641,dunguyenh@gmail.com,Bay Badminton Center,0,CMS DMS,CMD DMD,Steven Wong,,,4,M,TRUE,75
+Nguyen,Frank,M,(510) 449-5507,franklacnguyen@gmail.com,NBC,0,,CMD DMD,Shrayus Gupta,,,2,L,TRUE,45
+Nguyen,Hoang,M,(408) 470-8723,crankandprank@gmail.com,,0,,CMD(32),Yi-An Tseng,,,1,,FALSE,20
+Nguyen,Jennifer,W,(408) 250-3973,Pbjnguyen@ucdavis.edu,UCD,1,,,,DMX,John Fong,1,,FALSE,18
+Nguyen,KimVan ,W,(510) 331-0885,kvnguyen31@gmail.com,Hogwarts,1,,DMD CWD,Jeska Song,BMX,Huy Tran,3,S,TRUE,52
+Nguyen,Michael,M,(408) 702-5065,mnguyen5004@gmail.com,,0,DMS,CMD DMD,Peter Yam,,,3,,FALSE,50
+Nguyen,Moriaki,M,(510) 378-3049,moriakinguyen@gmail.com,SBBG,1,,CMD DMD,Joshua Yang,,,2,M,TRUE,40
+Nguyen,Nghia,M,(510) 755-9648,nguyen317si@yahoo.com,NBC,0,,AMD BMD,Phillip Song,BMX,Thuy-Nhi Truong,3,,FALSE,50
+Nguyen,Phong,M,(408) 888-8946,phong.nguyen408@gmail.com,Hogwarts,1,,CMD DMD,Steven Huynh,CMX DMX,Christina Ja,4,XL,TRUE,64
+Nguyen,Quyen,M,(209) 986-5184,Qtnnguyen@gmail.com,UCD,1,,BMD CMD,Vu Lam,BMX CMX,Jennifer Prajudha,4,,FALSE,54
+Nguyen,Richard,M,(510) 793-2911,superninjarichard@hotmail.com,Washington High ,0,CMS DMS,,,,,2,XL,TRUE,45
+Nguyen,Robinson,M,(510) 387-8505,rnguyen7466@gmail.com,eba,1,,CMD DMD,Jamin Zhang,,,2,L,TRUE,40
+Ny,Kimberly,W,(510) 685-2972,kimmyyny@gmail.com,Hercules,0,,,,DMX,Jesse Erandio ,1,,FALSE,20
+Pan,Adrian,M,(650) 773-7505,bdmtnfrk0606@gmail.com,iSmash,1,,AMD,Ronald Koko,AMX BMX,Donna Tran,3,,FALSE,42
+Paule,Gavin,M,(510) 226-8228,gavin_paule@sbcglobal.net,NBC,0,,BMD CMD,Vedy Escobal,,,2,,FALSE,35
+Pham,Vinh,M,(510) 851-0528,vinhvpham@yahoo.com,Hogwarts,1,CMS DMS,,,,,2,M,TRUE,40
+Pham,Vulong ,M,(407) 242-5834,godspeed5242@hotmail.com,Sacramento State,0,,CMD,Mike Phan,DMX,Cyndy Nguyen,2,L,TRUE,45
+Phan,BaDoi,M,(408) 613-5493,badoi@sbcglobal.net ,Sbbg,1,,DMD(38),Son thai,,,1,L,TRUE,28
+Phan,Chi ,M,(408) 219-7271,kozztan@yahoo.com,,0,,,,CMX DMX,Tan Kha,2,,FALSE,35
+Phan,Mike,M,(209) 298-2631,mike_h_phan@yahoo.com,Sac State,0,DMS,DMD(47),My Vo,DMX(12),Cynthia Nguyen,3,,FALSE,50
+Phan,Twee,W,(408) 596-6752,Twee_03@yahoo.com,,0,,,,BMX CMX,Steven Tran,2,,FALSE,35
+Prajudha,Jennifer,W,(510) 299-2484,jyprajudha@ucdavis.edu,uc davis,0,,,,BMX CMX,Quyen Nguyen,2,,FALSE,35
+Prakash,Rohit,M,(919) 593-2691,ropra@stanford.edu,Stanford,0,AMS,,,AMX,Request,2,,FALSE,35
+Quach,Andy,M,(408) 931-2173,quach1122@yahoo.com,Hogwarts,1,AMS,AMD,Galdino Rosas,,,2,,FALSE,30
+Quach,Anthony,M,(408) 386-2518,monkeyquach00@yahoo.com,dng,0,,CMD DMD,Joe Wong,DMX,Michelle Cheah,3,,FALSE,50
+Quach,Carol,W,(510) 213-5818,carolquach@gmail.com,UCD,1,,AWD BWD,Donna Tran,AMX BMX,Simon Wong,4,,FALSE,54
+Quach,John,M,(408) 674-7181,tquach04@gmail.com,BBC,0,,CMD(46) DMD(34),Kevin Chung,,,2,,FALSE,35
+Quiambao,Edma,W,(530) 774-8931,edmamariequiambao@Yahoo.com,,0,,,,DMX,edward joseph quiambao,1,S,TRUE,30
+Quiambao,Edward joseph,M,(530) 624-1172,edwardjosephquiambao@Yahoo.com,,0,,,,DMX,edma quiambao,1,M,TRUE,30
+Rivera,John Mark,M,(530) 774-7425,jmrivera113@yahoo.com,,0,,DMD,Aple Josh Modelo,,,1,M,TRUE,30
+Robleza,Claire,W,(510) 332-0098,clairerobleza@ymail.com,Hogwarts,1,,,,CMX DMX,Bao Tran,2,,FALSE,30
+Ros,Kelly,M,(408) 219-1726,kellyros12@hotmail.com,SJSU Badminton,0,,CMD DMD,Phil Hall,,,2,L,TRUE,45
+Rosas,Galdino,M,(408) 202-2336,dino.rosas@gmail.com,Hogwarts,1,BMS,AMD,Andy Quach,,,2,,FALSE,30
+Ross,Rothpanhar,M,(209) 487-4869,rothpanhar@berkeley.edu,Cal Badminton,0,,DMD(55),Shinsaku Uesugi,DMX(26),Connie Chung,2,,FALSE,35
+Ruan,Menglin,W,(408) 646-6766,menglin.ruan@gmail.com,Royal B,1,,,,CMX DMX,Terry Chu,2,,FALSE,30
+Santiago,Christian,M,(408) 807-2082,csantiago525@gmail.com,UCD,1,,CMD DMD,Andrew Santos,,,2,,FALSE,30
+Santos,Andrew,M,(408) 896-2313,arsantos@ucdavis.edu,uc davis,0,,CMD DMD,Christian Santiago,CMX DMX,Nicole Lo,4,,FALSE,65
+Schoppmann,Florian,M,(650) 787-9746,mail@florian-schoppmann.net,Stanford,0,CMS DMS,,,,,2,,FALSE,35
+Seed,Mitchell,M,(650) 455-5847,mitchseed@gmail.com,Los Altos High Schoo,0,,BMD CMD(49),Eric Yee,,,2,L,TRUE,45
+Setiadi,Francesca,W,(408) 421-1730,afsetiadi@hotmail.com,Bintang,0,,CMD AWD,Karine Hsu,,,2,,FALSE,35
+Sharma,Praveen,M,(510) 299-3852,praveenkunal@yahoo.com,East Bay,0,,CMD,Cedric Fernandes,,,1,L,TRUE,30
+Shehan,Matthew,M,(415) 307-8791,mshehan2011@hotmail.com,,0,,CMD(33) DMD(29),Justin Wong,,,2,L,TRUE,45
+Sheu,Vincent,M,(408) 628-8495,vsheu@berkeley.edu,Cal,0,,CMD DMD,Tony Chen,,,2,M,TRUE,45
+Shih,Patrick,M,(408) 621-2711,wakydodo@yahoo.com,Stanford,0,,BMD,Miguel Guillen,,,1,,FALSE,20
+Song,Jeska,W,(510) 299-0684,jskjng@gmail.com,Hogwarts,1,,CWD,KimVan Nguyen,CMX DMX,Solomon Wong,3,S,TRUE,52
+Song,Phillip,M,(702) 883-5713,phillip.song@gmail.com,NBC,0,,AMD BMD,Nghia Nguyen,,,2,,FALSE,35
+Soo,Gary,M,(510) 676-1331,gary@mbcoffice.com,SBBG,1,,CMD DMD,JR Jacinto,CMX DMX,Elaine Sun,4,M,TRUE,64
+Soubiea,Will,M,(510) 449-9827,soubiea90@yahoo.com,NBC,0,,BMD CMD,Stephen Chiu,,,2,,FALSE,35
+Stasse,Chris ,M,(707) 318-3221,evanstasse@gmail.com,East Bay Badminton ,0,CMS DMS,,,,,2,M,TRUE,45
+Sudaria,Kellyrose,W,(408) 464-4357,krsudaria@yahoo.com,dng,0,,,,CMX(12),eric au,1,,FALSE,20
+Sun,Darren,M,(408) 966-2885,chocobo_2420@yahoo.com,Saratoga High School,0,,DMD,Michael Chang,,,1,,FALSE,20
+Sun,Elaine,W,(510) 364-2331,Suncenae@yahoo.com,SBBG,1,,CWD DWD,Jenny Tsang,CMX DMX,Gary Soo,4,S,TRUE,64
+Tanizawa,Steven,M,(510) 378-6322,Sukiyakiep3@gmail.com,Nbc,0,,DMD(26),Michael truong,,,1,,FALSE,20
+Tat,Donald,M,(408) 833-3559,tatdonaldx2@yahoo.com,De Anza,0,,CMD DMD,Jose De Leon,,,2,M,TRUE,45
+Taylor,Trevor,M,(408) 829-0699,taylortrevor@comcast.net,smashed lol,0,CMS,BMD CMD(25),eddie freash,CMX,jodie wu ,4,,FALSE,65
+Teh,Bin,M,(530) 219-0569,kbinteh@hotmail.com,UC Davis,0,,AMD BMD,Wilson Ku,,,2,,FALSE,35
+Tha,Soe Han,W,(415) 606-2510,coolhantha@gmail.com,BBC,0,,AWD BWD,Leslie Tong,BMX CMX,Timonthy Yue,4,,FALSE,65
+Thai,Son,M,(408) 677-6149,sonthai10@gmail.com,SBBG,1,,DMD(36),badoi phan,DMX(7),allyson vu,2,L,TRUE,40
+THAPA,Bal Ram,M,(650) 868-2146,crazy_ballu@hotmail.com,Royal B,1,AMS,,,AMX,Monica Ku,2,M,TRUE,40
+Tian,Stefan,M,(650) 279-9522,amano767@gmail.com,Royal B,1,,CMD(21) DMD(20),Kevin Xie,CMX DMX,Catherine Gu,4,M,TRUE,64
+Tiet,Raymond ,M,(408) 613-9037,dlchinaboy@gmail.com,,0,,DMD(10),david ly,,,1,,FALSE,20
+To,Jennifer,W,(415) 439-9929,exowneon@hotmail.com,iSmash,1,,,,DMX(9),Jennifer To,1,,FALSE,18
+Tong,Leslie,W,(415) 860-1456,l-tong@live.com,BBC,0,BWS,AWD BWD,Soe Han Tha,,,3,,FALSE,50
+Tong,Lucilla,W,(510) 928-6064,lucilla,,0,,,,CMX(7) DMX(18),Jeffery Yang,2,,FALSE,35
+Tong,Timothy,M,(925) 997-8809,TimmehTong@yahoo.com,RBA,0,,BMD CMD(40),Tedman Zhuang,,,2,M,TRUE,45
+Toy,Derek,M,(650) 278-9394,alpharoween@yahoo.com,Bay Badminton Center,0,,CMD(48) DMD(35),Brandon Le,,,2,M,TRUE,45
+Tran,Anthony,M,(408) 375-0304,dis_anthony@yahoo.com,STHS,0,,DMD,Jeffrey Chew,,,1,,FALSE,20
+Tran,Bao,M,(510) 755-8702,baotran83@gmail.com,Hogwarts,1,,CMD(26) DMD(27),Thao Troung,CMX DMX,Claire Robleza,4,,FALSE,54
+Tran,Donna,W,(510) 289-1116,tran.donna@hotmail.com,Davis/eba,0,BWS,AWD BWD,Carol Quach,AMX BMX,Adrian Pan ,5,,FALSE,80
+Tran,Huy,M,(510) 688-0551,xxzerovelocityxx@hotmail.com,Hogwarts,1,,AMD BMD,Nguyen Huynh,BMX,Kim Nguyen,3,,FALSE,42
+Tran,James,M,(408) 226-3015,tran.james@yahoo.com,,0,,CMD(23),Tim Nguyen,,,1,,FALSE,20
+Tran,Jonathan,M,(408) 387-3656,jonathantran@berkeley.edu,Not Making Paper,0,DMS,CMD DMD,Andy Ngo,,,3,,FALSE,50
+Tran,Ky,M,(510) 688-8137,kytran87@gmail.com,Hogwarts,1,,BMD CMD(43),Eddie Chou,CMX,Vivian Dien,3,,FALSE,42
+Tran,Steven ,M,(408) 314-8735,Pandasteve18@gmail.com,,0,,,,BMX CMX,Twee phan,2,,FALSE,35,
+Tran,Trang,W,(510) 861-1701,trangdtran@att.net,Hogwarts,1,,DWD,Thu Le,CMX DMX,Joseph Bui,3,,FALSE,42,
+Trinh,Alan,M,(408) 422-8425,vtpandaboi@yahoo.com,dng,0,,BMD CMD,Vinh Luu,,,2,,FALSE,35,
+Trinh,Huey,M,(408) 759-9104,fusionhuey@yahoo.com,Hogwarts,1,,,,CMX DMX,Katherine Ja,2,MM,TRUE,50,has 2 t-shirts
+Trinh,Long,M,(510) 673-1202,gamexpoint@gmail.com,UCD,1,,BMD CMD(6),Henry Wong,,,2,M,TRUE,40,
+Truong,Michael,M,(510) 754-0018,jkeokham@gmail.com,NBC,0,,DMD,Steven Tanizawa,CMX DMX,Demi Dao,3,,FALSE,50,
+Truong,Phong,M,(510) 557-5305,phongbatruong@gmail.com,,0,,CMD(9),Kevin Banh,,,1,,FALSE,20,
+Truong,Thuy-Nhi,W,(510) 491-4922,ttruong421@yahoo.com,NBC,0,,CWD,Roxanne Cablay,BMX,Nghia Nguyen,2,,FALSE,35,
+Truong,Tuongvi,W,(510) 695-1503,tuongviatruong@yahoo.com,Hogwarts,1,,,,DMX,Tuan hoang,1,,FALSE,18,
+Tsai,Stephanie,W,(909) 996-3508,stephanietsai89@gmail.com,UC Berkeley,0,,DMD AWD,Sarah Chan,BMX CMX,Victor Yu,4,S,TRUE,75,
+Tsang,Jenny,W,(510) 912-5577,jtsang926@yahoo.com,SBBG,1,,CWD DWD,Elaine Sun,CMX DMX,Joseph Lam,4,,FALSE,54,
+Tseng,Yi-An,M,(408) 480-8615,yiantseng@berkeley.edu,cal badminton,0,,CMD,Hoang Nguyen,DMX,Audrey Guo,2,L,TRUE,45,
+Tu,Kevin,M,(408) 726-5657,trung5156@gmail.com,Milpitas High School,0,,DMD,Chen Hao Liao,,,1,S,TRUE,30,
+Tung,Alice,W,(510) 325-5422,michellehoaang@gmail.com,NBC,0,,CWD,Michelle Hoang,,,1,,FALSE,20,
+Uesugi,Shinsaku,M,(240) 723-9953,shinsaku@berkeley.edu,UC Berkeley,0,,DMD,Rothpanhar Ross,,,1,M,TRUE,30,
+Vo,My,M,(209) 639-6358,votienmy@yahoo.com,,0,,DWD,Mike Phan,CMX(3) DMX(15),Dericka Flores,3,,FALSE,50,
+Vo,My,M,(209) 639-6358,VoTienMy@yahoo.com,,0,,DMD(51),Mike Phan,CMX(10) DMX(24),Dericka Flores,3,,FALSE,50
+Vo,Vincent,M,(408) 824-3820,vincentvovv@yahoo.com,Andrew Hil,0,,CMD DMD,Phong Nguyen,,,2,,FALSE,35
+Vu,Allyson,W,(408) 537-3919,anvu@ucsc.edu,UCSC,0,,DWD,Melissa Le,DMX,Son Thai,2,,FALSE,35
+Vu,Dexter,M,(510) 673-3905,dextervu01@yahoo.com,UCD,1,,BMD CMD,Thomas Yamagami,BMX CMX,Stephanie Cheung,4,,FALSE,54
+Vu,Phung (Michelle),W,(619) 339-0929,phungmvu@berkeley.edu,UC Berkeley,0,,DWD,Vicky (Victoria) Chen,,,1,,FALSE,20
+Vuong,Richard,M,(707) 953-7014,rvuong@ucdavis.edu,UCD,1,,CMD DMD,Julian Low,,,2,,FALSE,30
+Wan,Sunny,M,(510) 378-6607,sunnybkwan@gmail.com,SBBG,1,,CMD DMD,Joseph Lam,CMX DMX,Julia Lau,4,M,TRUE,64
+Wang,James,M,(408) 621-8938,susan_yx_li@yahoo.com,,0,DMS,,,,,1,,FALSE,20
+Wang,Michael,M,(510) 861-4617,m.y.wang92@Gmail.com,CVHS,0,,BMD CMD(45),John Lee,,,2,S,TRUE,45
+Wang,Nancy,W,(650) 521-2676,nancy.wangg@gmail.com,Stanford,0,,CWD,Milinda Lakkam,BMX,Seth Elliot,2,,FALSE,35
+Wang,Yu,M,(415) 439-9929,exowneon@hotmail.com,iSmash,1,DMS,CMD(51) DMD(39),Jack Wong,,,3,,FALSE,42
+Wong,Cecilia,W,(626) 231-9282,ceciliawong90@gmail.com,UC Berkeley,0,,,,BMX,Dominick Lim,1,,FALSE,20
+Wong,Henry,M,(510) 331-9403,hongkongdude@sbcglobal.net,UCD,1,,BMD CMD,Long Trinh,,,2,XL,TRUE,40
+Wong,Ingrid,W,(510) 861-7353,iwong@berkeley.edu,Cal Badminton,0,,DMD CWD,Stephanie Cheung,CMX,Ivan Kong,3,,FALSE,50
+Wong,Jack,M,(415) 439-9929,exowneon@hotmail.com,iSmash,1,DMS,CMD(58) DMD(47),Yu Wang,,,3,,FALSE,42
+Wong,Joe ,M,(408) 421-9144,Jojo122689@hotmail.com,,0,,CMD(15) DMD(14),Anthony quach,DMX,Hellen ly,3,,FALSE,50
+Wong,Justin,M,(415) 845-5529,jkw221@yahoo.com,none,0,,CMD(34) DMD(30),Matthew Shehan,,,2,L,TRUE,45,
+Wong,Michael ,M,(650) 863-3036,mwwong27@yahoo.com,Bay Badminton Center,0,CMS,CMD(14) DMD(13),Bowie Yu ,,,3,S,TRUE,60,
+Wong,Simon,M,(510) 697-7008,slwwong@ucdavis.edu,eba,1,,AMD BMD,Bryant Chau,AMX BMX,Carol Quach,4,M,TRUE,64,
+Wong,Solomon,M,(510) 475-1836,solomn_wong@yahoo.com,Hogwarts,1,,CMD DMD,Christian Basa,CMX DMX,Jeska Song,4,,FALSE,54,
+Wong,Steven,M,(510) 851-8888,stevenwong17@gmail.com ,Bay Badminton Center,0,,CMD DMD,Du Nguyen,,,2,,FALSE,35,
+Woo,Elliot,M,(650) 218-2974,elliot013@gmail.com,,0,DMS,,,,,1,,FALSE,20,
+Wu,Catherine,W,(650) 646-5228,catherin9@gmail.com,Royal B,1,,CWD,Linda Zhang,,,1,,FALSE,18,
+Wu,Eric,M,(650) 906-0560,tw3nty.se7en@gmail.com,Los Altos HS,0,DMS,,,,,1,S,TRUE,30,
+Wu,Gary,M,(415) 810-1793,grywu623@gmail.com,UCD,1,,BMD CMD(8),Nathan Lo,BMX CMX,Tiffany Chu,4,M,TRUE,64,
+Wu,Jimmy,M,(626) 652-5453,jcwu@ucdavis.edu,,0,,,,CMX DMX,Monica Li,2,,FALSE,35,
+Wu,Jodie,W,(408) 891-4952,sleepingnugget@yahoo.com,,0,,,,CMX,Trevor Taylor,1,S,TRUE,30,
+Wu,Peter,M,(408) 832-3327,tecdecs@yahoo.com,Royal B,1,,CMD(4) DMD(5),Albert Chau,,,2,,FALSE,30,
+Xie,Kevin,M,(408) 398-0021,xie.kevin@berkeley.edu,Royal B,1,,CMD DMD,Stefan Tian,,,2,,FALSE,30,
+Xu,Sihua,W,(408) 253-3862,sihuaxu.2012@gmail.com,,0,,DWD,Michelle Jiang,DMX,Shrayus Gupta,2,SS,TRUE,55,has 2 tshirts
+Yam,Peter ,M,(408) 891-3884,emailyammy@gmail.com,Milpitas High School,0,CMS DMS,CMD(59) DMD(48),Michel Nguyen,DMX(16),unknown,5,M,TRUE,90,
+Yamagami,Thomas,M,(510) 996-2475,yumigumirxd12@yahoo.com,NBC,0,,BMD CMD,Dexter Vu,,,2,XL,TRUE,45,
+Yamaguchi,Kevin,M,(408) 761-5553,mtguchi154@aol.com,,0,,DMD,Anthony Dinh,,,1,,FALSE,20
+Yang,Jeffery,M,(408) 306-5620,jefferyyang38@yahoo.com.tw,,0,,,,CMX(6) DMX(17),Lucilla Tong,2,M,TRUE,45
+Yang,Joshua,M,(408) 805-0032,tianjyang@gmail.com,SBBG,1,,CMD(1) DMD(1),Moriaki Nguyen,,,2,XL,TRUE,40
+Yang,Stephen,M,(510) 434-6934,syang1216@gmail.com,eba,1,,DMD (54),Joshua Cheung,,,1,,FALSE,18
+Yang Wang,Yip,M,(650) 283-9785,htieu694@gmail.com,sequoia badminton,0,,DMD(17),kok kinkong,,,1,,FALSE,20
+Yao,Francis,M,(408) 888-9340,franypak@gmail.com,UCD,1,AMS,BMD,Derek Chao,,,2,M,TRUE,40
+Yao,Kevin,M,(650) 796-6888,kzmeyao@gmail.com,Making Paper,0,CMS,BMD CMD,David Chock,,,3,,FALSE,50
+Yee,Eric,M,(408) 970-9477,ericyee56@gmail.com,santa clara high ,0,BMS,BMD CMD(47),mitch seed,,,3,,FALSE,50
+Yeung,Arnold,M,(408) 416-6668,arnoldyeung88@gmail.com,Cal Badminton,0,,AMD BMD,Kevin Chang,,,2,,FALSE,35
+Yonekura,Chris,M,(408) 834-5657,ChrisChiengDo@gmail.com,,0,DMS,CMD DMD,Brian Moriyama,,,3,L,TRUE,60
+You,Eric,M,(781) 454-9438,bmtyay@gmail.com,UBC,0,BMS,BMD CMD,Jack Ma,,,3,L,TRUE,60
+Youn,James,M,(510) 648-9394,nifeblade@gmail.com,NBC,0,,AMD BMD,Ryan Ang,AMX BMX,Karine Hsu,4,,FALSE,65
+Yu,Bowie,M,(650) 745-6700,bowieyu@sbcglobal.net,bbc/south san franci,0,DMS,CMD DMD,Michael Wong,CMX DMX,Marielle Carmen,5,M,TRUE,90
+Yu,Fanny,W,(510) 673-5500,fannyyufannyme@gmail.com,UCD,1,,AWD BWD,Amanda Ho,AMX BMX,Wesley Hsieh,4,,FALSE,54
+Yu,Victor,M,(909) 896-9475,thatdarnsquirrel@gmail.com,eba,1,,BMD CMD(50),"Nathan ""Holy"" Cao",BMX,Stephanie Tsai,3,,FALSE,42
+Yue,Timothy ,M,(415) 216-9483,aznb0i71@gmail.com,,0,,BMD CMD(37),Edric Kwong,BMX CMX,Soe Han Tha,4,S,TRUE,75
+ZENG,ROBERT,M,(408) 893-2398,yaoaurora@gmail.com,UBC,0,AMS BMS,,,,,2,,FALSE,35,
+Zhang,Jamin,M,(510) 708-7773,jaminzhang@berkeley.edu,ENCINAL HIGH FTW >=O,0,DMS,CMD DMD,Robinson Nguyen,,,3,S,TRUE,60,
+Zhang,Linda,W,(650) 388-8755,linduhh@gmail.com,Royal B,1,,CWD,Catherine Wu,DMX,Brendan Dinh,2,,FALSE,30,
+Zhao,Yang,M,(916) 337-1079,ylzhao@berkeley.edu,calbadminton,0,,CMD(58) DMD(46),Thomas Go,,,2,,FALSE,35,
+Zhuang,Tedman,M,(408) 533-2836,knightswood@hotmail.com,RBA,0,BMS CMS,BMD CMD(49),Tim Tong,,,4,M,TRUE,75,
+Chiu,Tommy,M,,,Hogwarts,1,,,,,,,,FALSE,6,ask for event
+Truong,Thao,,,,,0,,,,,,,,FALSE,5,ask for event
+Hoang,Bin,,,,,0,,,,,,,,FALSE,5,ask for event
+Tau,Ryan,M,,,iSmash,1,,DMS CMS,,,,2,,FALSE,30,
+Koko,Ronald,M,,,iSmash,1,,AMD BMD,,,,2,,FALSE,30,
+Dang,Diane,W,,,SBBG,1,,,,CMX DMX,,2,,FALSE,30,
+Jacinto,JR,M,,,SBBG,1,,CMD DMD,,,,2,,FALSE,30,
+Xvior,Eurico,M,,,EBA,1,,,,,,,,FALSE,6,ask for event
+Wong,Alvin,M,,,EBA,1,,,,,,,,FALSE,6,ask for event
+Ho,Maggie,W,,,EBA,1,,,,AMX,,1,,FALSE,18,
